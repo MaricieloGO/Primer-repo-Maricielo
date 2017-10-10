@@ -5,4 +5,4 @@ sysuse auto
 
 reg price 
 
-reg price mg
+summ lenght
